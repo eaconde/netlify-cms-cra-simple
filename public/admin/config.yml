@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: econde/netlify-cms-cra-simple
+  repo: eaconde/netlify-cms-cra-simple
 
 media_folder: "public/images"
 public_folder: "images"
